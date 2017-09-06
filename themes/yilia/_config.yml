@@ -2,15 +2,15 @@
 
 menu:
   主页: /
-  工程化: /tags/工程化/
-  javascript: /tags/javascript/
+  随笔: /tags/随笔/
 
 # SubNav
 subnav:
-  github: "#"
+  github: "https://github.com/peterchealse"
   weibo: "#"
   rss: "#"
   zhihu: "#"
+  mail: "peterwch123@gmail.com"
   #qq: "#"
   #weixin: "#"
   #jianshu: "#"
@@ -18,7 +18,6 @@ subnav:
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -112,6 +111,6 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  友情链接1: http://localhost:4000/
+  友情链接1: http:t66y.com
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: 很惭愧, 没啥干货...
