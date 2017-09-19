@@ -9,10 +9,15 @@ import Share from './share'
 // 边缘
 import Aside from './aside'
 
-import {addLoadEvent} from './util'
+import {
+  addLoadEvent
+} from './util'
 
-addLoadEvent(function() {
-	Share.init()
-	Viewer.init()
-	Aside.init()
+addLoadEvent(function () {
+  Share.init()
+  Viewer.init()
+  Aside.init()
+  setTimeout(function () {
+    document.getElementsByClassName('js-avatar')[0].style.transform = 'rotate(360deg)';
+  }, 1000);
 })
